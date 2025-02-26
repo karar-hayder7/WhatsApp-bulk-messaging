@@ -1,0 +1,7 @@
+Hello  {name}
+
+Write any message here 
+
+
+Make sure to keep {name} to send the customized message, otherwise you can delete it and send a normal message 
+
